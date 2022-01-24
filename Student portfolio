@@ -1,0 +1,8 @@
+print("Student Portfolio")
+Name = input("Enter your name: ")
+Std =  int(input("Enter your Standard : "))
+div = input("Divison")
+sub1 = input("Amp - ")
+sub2 = input("Eco - ")
+sub3 = input("Ac - ")
+tp = input("Total percentile -")
